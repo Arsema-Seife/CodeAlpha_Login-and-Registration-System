@@ -27,7 +27,7 @@ It uses file handling in C++ to store and retrieve data.
 ## 💻 Technologies Used
 - **Language:** C++
 - **Concepts:** File Handling, Structures, Conditional Statements
-- **Tools:** Code::Blocks / Visual Studio Code
+- **Tools:** Code::Blocks / Visual Studio Code/Jetbrains CLion
 
 ---
 
